@@ -1,0 +1,8 @@
+.app{
+    min-height: 100vh;
+    color: white;
+    background: black;
+    /* background-image: linear-gradient(to left, #ff9a9e, #276bc4); Change colors as needed */
+
+    /* background: #EEEEEE;  */
+  }
