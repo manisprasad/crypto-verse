@@ -1,17 +1,14 @@
-.navbar{
+/* .navbar{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 7px 2%;
+    padding: 0px 2%;
+    height: 2.9rem;
     color: black;
-    background-color: #4a9be6ab;
-    /* border-b ottom: 2px solid black; */
-    box-shadow: 8px 0px 49px #1654b3;
 
 }
 .navbar img{
-    /* width:60px; */
-    /* aspect-ratio: 1; */
+   
     height: 50px;
     border-radius: 2%;
 }
@@ -46,4 +43,4 @@ select{
     color: white;
     font-weight: 800;
     border-radius: 12px;
-}
+} */
